@@ -145,7 +145,7 @@ print(isinstance(obj, object))  # Output: True
 ```
 
 In this example, `MyClass` implicitly inherits from `object`, so an instance of `MyClass` is also an instance of `object`.
-```
+``
 
 # Dunder-Methods
 
